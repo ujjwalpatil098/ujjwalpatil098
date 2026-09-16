@@ -1,4 +1,4 @@
-# Hi, I'm Ujjwal Patil 👋
+# Hi, I'm Ujjwal Patil ✌️
 
 ### 🎓 B.Tech AI & Data Science Student | Aspiring AI/ML Engineer
 
