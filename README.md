@@ -1,54 +1,183 @@
-# Hi, I'm Ujjwal Patil ✌️
+# Hey, I'm Ujjwal Patil 🚀
 
-### 🎓 B.Tech AI & Data Science Student | Aspiring AI/ML Engineer
+### `AI & Data Science Undergraduate` • `Aspiring AI/ML Engineer`
 
-I'm a first-year B.Tech student exploring the world of **Python, Data Science, Artificial Intelligence and Machine Learning**.
-
-I believe in learning by building projects and improving my skills step by step. 🚀
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech student in Artificial Intelligence & Data Science
-- 🐍 Currently strengthening my Python fundamentals
-- 📊 Learning Data Analysis and Data Visualization
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🗄️ Learning SQL and databases
-- 🌱 Building projects to gain practical experience
-- 🔧 Using Git & GitHub to document my learning journey
+```text
+┌──────────────────────────────────────────────────────┐
+│  Currently learning → Python → Data Science → AI/ML │
+│  Building skills   → One concept → One project      │
+│  My Approach        → Learn • Build • Improve        │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💫 // ABOUT_ME
 
-### Programming
+```yaml
+name: Ujjwal Patil
+role: AI & Data Science Undergraduate
+institute: R. C. Patel Institute of Technology
+year: First Year, B.Tech
+focus:
+  - Python
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
+currently_learning:
+  - Python Fundamentals
+  - Data Analysis
+  - Data Visualization
+  - SQL & DBMS
+  - Machine Learning Fundamentals
+status: "🟢 Learning • Building • Improving"
+```
+
+I'm a first-year AI & Data Science student interested in understanding how data, programming, and intelligent systems come together.
+
+Currently, I'm focused on strengthening my fundamentals before moving deeper into Machine Learning and AI.
+
+---
+
+## 🎓 // EDUCATION
+
+| Institution                         | Degree                     | Duration       |
+| ----------------------------------- | -------------------------- | -------------- |
+| R. C. Patel Institute of Technology | B.Tech – AI & Data Science | 2025 – Present |
+
+---
+
+## 🧭 // MY DIRECTION
+
+```text
+                    AI & DATA SCIENCE
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        PROGRAMMING                   DATA
+             │                           │
+          Python                  Analysis & SQL
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                     MACHINE LEARNING
+                           │
+                           ▼
+                    ARTIFICIAL INTELLIGENCE
+```
+
+### 🎯 Goals
+
+* 🐍 Build a strong foundation in Python
+* 📊 Become comfortable working with real-world data
+* 🤖 Understand Machine Learning fundamentals
+* 🛠️ Build practical AI/Data Science projects
+* 💻 Improve problem-solving and coding skills
+* 🌱 Keep learning through hands-on development
+
+---
+
+## ⚙️ // TECH_STACK
+
+### Languages
+
 `Python` `C` `Java`
 
-### Data & AI
+### Data & Visualization
+
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ### Database
+
 `SQL` `DBMS`
 
 ### Tools
+
 `Git` `GitHub` `VS Code` `Streamlit` `Google Colab`
 
 ---
 
-## 📚 Currently Learning
+## 📚 // CURRENTLY_LEARNING
 
 ```text
-Python
-   ↓
+Python Fundamentals
+        │
+        ▼
+Data Structures & Problem Solving
+        │
+        ▼
 Pandas + NumPy
-   ↓
+        │
+        ▼
 Data Cleaning & Analysis
-   ↓
+        │
+        ▼
 Matplotlib + Seaborn
+        │
+        ▼
+SQL & Databases
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Artificial Intelligence
+```
+
+---
+
+## 🔨 // BUILDING_IN_PROGRESS
+
+Currently using what I learn to work on practical academic and internship-based projects.
+
+> Projects will be added here as they reach a presentable stage.
+
+---
+
+## 🧠 // MY_APPROACH
+
+```text
+LEARN
+  ↓
+UNDERSTAND
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+DOCUMENT
+  ↓
+IMPROVE
+```
+
+I prefer understanding the fundamentals first and then applying them through projects.
+
+---
+
+## 🚀 // LONG_TERM_VISION
+
+To grow into an AI/ML engineer who can turn ideas and data into useful, real-world solutions.
+
+```text
+Student
    ↓
-SQL
+Strong Fundamentals
+   ↓
+Data Science
    ↓
 Machine Learning
    ↓
-AI & Data Science Projects
+AI Engineering
+```
+
+---
+
+## ✨ // FUN_FACT
+
+I enjoy taking something I don't understand, breaking it down, and learning it step by step.
+
+---
+
+### `> Building my skills, one commit at a time. 🚀`
+
+Thanks for stopping by!
