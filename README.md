@@ -33,7 +33,7 @@ currently_learning:
 status: "🟢 Learning • Building • Improving"
 ```
 
-I'm a first-year AI & Data Science student interested in understanding how data, programming, and intelligent systems come together.
+I'm a 2nd-year AI & Data Science student interested in understanding how data, programming, and intelligent systems come together.
 
 Currently, I'm focused on strengthening my fundamentals before moving deeper into Machine Learning and AI.
 
@@ -54,13 +54,12 @@ Currently, I'm focused on strengthening my fundamentals before moving deeper int
                            │
              ┌─────────────┴─────────────┐
              │                           │
-        PROGRAMMING                   DATA
+        PROGRAMMING                      DATA
              │                           │
           Python                  Analysis & SQL
              │                           │
              └─────────────┬─────────────┘
-                           │
-                     MACHINE LEARNING
+                            
                            │
                            ▼
                     ARTIFICIAL INTELLIGENCE
