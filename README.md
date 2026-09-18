@@ -164,8 +164,6 @@ Strong Fundamentals
    ↓
 Data Science
    ↓
-Machine Learning
-   ↓
 AI Engineering
 ```
 
