@@ -4,9 +4,9 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  Currently learning → Python → Data Science → AI/ML │
-│  Building skills   → One concept → One project      │
-│  My Approach        → Learn • Build • Improve        │
+│  Currently learning → Python → Data Science                   │
+│  Building skills   → One concept → One project                │
+│  My Approach        → Learn • Build • Improve                 │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -18,7 +18,7 @@
 name: Ujjwal Patil
 role: AI & Data Science Undergraduate
 institute: R. C. Patel Institute of Technology
-year: First Year, B.Tech
+year:  Year, B.Tech
 focus:
   - Python
   - Data Science
