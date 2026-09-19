@@ -156,7 +156,7 @@ I prefer understanding the fundamentals first and then applying them through pro
 
 ## 🚀 // LONG_TERM_VISION
 
-To grow into an AI/ML engineer who can turn ideas and data into useful, real-world solutions.
+To grow into an AI engineer who can turn ideas and data into useful, real-world solutions.
 
 ```text
 Student
