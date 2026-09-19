@@ -30,7 +30,7 @@ currently_learning:
   - Data Visualization
   - SQL & DBMS
   - Machine Learning Fundamentals
-status: "🟢 Learning • Building • Improving"
+status: "🟢 Learning • 📈 Building • 🚀 Improving"
 ```
 
 I'm a 2nd-year AI & Data Science student interested in understanding how data, programming, and intelligent systems come together.
