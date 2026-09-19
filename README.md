@@ -44,6 +44,7 @@ Currently, I'm focused on strengthening my fundamentals before moving deeper int
 | Institution                         | Degree                     | Duration       |
 | ----------------------------------- | -------------------------- | -------------- |
 | R. C. Patel Institute of Technology | B.Tech – AI & Data Science | 2025 – Present |
+| Dr.P.R.G jr.College of Sciences     | HSC 11th - 12th Board      | 2023 - 2025    |
 
 ---
 
