@@ -1,6 +1,6 @@
 # Hey, I'm Ujjwal Patil 🚀
 
-### `AI & Data Science Undergraduate` • `Aspiring AI/ML Engineer`
+### `AI & Data Science Undergraduate` • `Aspiring Engineer`
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -18,7 +18,7 @@
 name: Ujjwal Patil
 role: AI & Data Science Undergraduate
 institute: R. C. Patel Institute of Technology
-year:  Year, B.Tech
+year:  Second-Year, B.Tech
 focus:
   - Python
   - Data Science
