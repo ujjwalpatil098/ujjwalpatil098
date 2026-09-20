@@ -4,9 +4,9 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  Currently learning → Python → Data Science                   │
-│  Building skills   → One concept → One project                │
-│  My Approach        → Learn • Build • Improve                 │
+│  Currently learning → Python → Data Science          │
+│  Building skills   → One concept → One project       │
+│  My Approach        → Learn • Build • Improve        │
 └──────────────────────────────────────────────────────┘
 ```
 
