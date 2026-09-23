@@ -60,7 +60,7 @@ Currently, I'm focused on strengthening my fundamentals before moving deeper int
           Python                  Analysis & SQL
              │                           │
              └─────────────┬─────────────┘
-                            
+                           |
                            │
                            ▼
                     ARTIFICIAL INTELLIGENCE
