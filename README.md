@@ -29,7 +29,7 @@ currently_learning:
   - Data Analysis
   - Data Visualization
   - SQL & DBMS
-  - Machine Learning Fundamentals
+ 
 status: "🟢 Learning • 📈 Building • 🚀 Improving"
 ```
 
