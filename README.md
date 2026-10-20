@@ -178,4 +178,4 @@ I enjoy taking something I don't understand, breaking it down, and learning it s
 
 ### `> Building my skills, one commit at a time. 🚀`
 
-Thanks for stopping by!
+Thanks for stopping by👋😊!
